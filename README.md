@@ -245,8 +245,19 @@ Publish the website in the given URL.
 # OUTPUT:
 ## Home
 
+![alt text](image.png)
 
+## Menu
 
+![alt text](image-1.png)
+
+## Admin
+
+![alt text](image-2.png)
+
+## Contact
+
+![alt text](image-3.png)
 
 # RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
